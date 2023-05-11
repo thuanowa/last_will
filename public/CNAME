@@ -1,1 +1,1 @@
-pay.thuanowa.com
+last-will.thuanowa.com

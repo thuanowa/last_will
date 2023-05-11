@@ -5,7 +5,7 @@ import vercel from '@astrojs/vercel/edge';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://pay.thuanowa.com',
+  site: 'https://last-will.thuanowa.com',
   integrations: [compress(), robotsTxt()],
   output: "server",
   adapter: vercel(),
